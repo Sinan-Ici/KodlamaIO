@@ -21,7 +21,7 @@ namespace ClassMetotDemo
             musteri2.DogumTarihi = 1980;
 
 
-            Musteri[] musteriler = new Musteri []{ musteri1, musteri2 };
+            Musteri[] musteriler = new Musteri[] { musteri1, musteri2 };
 
             foreach(Musteri musteri in musteriler)
             {
